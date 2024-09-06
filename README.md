@@ -1,21 +1,25 @@
-## Oii! Eu sou o Lucas
-**Hoje trabalho com front-end**
+### Olá, sou o Lucas Lima👋🏽
+Um entusiasta da Ciência de Dados🤖
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylucalima&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div align="center">
+  <a href="https://github.com/bylucalima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bylucalima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bylucalima&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/lucas-lima-b94ab4218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <div style="display: inline_block"><br>
+   <img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+   <img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"/>
+   <img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg"/>
+   <img height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
 
-
+  
+ ##
+  
+<div>
+  <a href = "mailto:lucaslimasilva493@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucaslima-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
